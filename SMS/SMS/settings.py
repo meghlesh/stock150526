@@ -31,14 +31,14 @@ ALLOWED_HOSTS = [
     "api-sms-be-cddgg8d5euh3ckhg.southindia-01.azurewebsites.net",
     "cwsinventory.in",
     "www.cwsinventory.in",
-     "gentle-tree-0db454500.7.azurestaticapps.net"
+     "brave-dune-0c342e100.7.azurestaticapps.net"
 ]
 
 CSRF_TRUSTED_ORIGINS = [
     "https://api-sms-be-cddgg8d5euh3ckhg.southindia-01.azurewebsites.net",
     "https://cwsinventory.in",
     "https://www.cwsinventory.in",
-    "https://gentle-tree-0db454500.7.azurestaticapps.net"
+    "https://brave-dune-0c342e100.7.azurestaticapps.net"
 ]
 
 
