@@ -147,7 +147,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
-#SITE_URL = 'http://127.0.0.1:8000'  #Change to your domain in production
+SITE_URL = 'https://www.cwsinventory.in'  #Change to your domain in production
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
